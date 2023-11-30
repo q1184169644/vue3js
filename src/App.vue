@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">模板语法</router-link> |
+    <router-link to="/about">响应式基础</router-link>
   </nav>
   <router-view/>
 </template>
