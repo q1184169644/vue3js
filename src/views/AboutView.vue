@@ -19,7 +19,7 @@ function add() {
 }
 
 // reactive的使用
-const state = reactive({ count: 1 })
+const state = reactive({ count: 3 })
 
 
 </script>
